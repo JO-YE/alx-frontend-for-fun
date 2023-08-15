@@ -1,0 +1,12 @@
+/* Margin mixin */
+@mixin margin($left, $right) {
+  margin-left: $left;
+  margin-right: $right;
+  }
+
+/* using the mixin defined */
+body {
+  @include margin(10px, 10px);
+  }
+div {
+  @include margin(15px, 15px); }
