@@ -1,0 +1,13 @@
+/* Assigning properties using Sass variable */
+$primary-color: #3D3D3D;
+$backgroud: #6D6D6D;
+
+body {
+  color: $primary-color;
+  background-color: $backgroud; }
+
+p {
+  color: $primary-color; }
+
+h2 {
+  background-color: $backgroud; }
