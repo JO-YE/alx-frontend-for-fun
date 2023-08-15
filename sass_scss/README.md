@@ -1,5 +1,7 @@
 # Sass & Scss
 This project showcases the power and benefits of using Sass (Syntactically Awesome Style Sheets) and SCSS (Sassy CSS) for creating efficient and maintainable styles for your web projects.
+Sass and SCSS are both extensions of CSS that provide additional features and functionality to make styling web pages more effiocient and maintainable. They introduce features like ***variables, nesting, mixins...***.
+
 
 
 ## REsources
