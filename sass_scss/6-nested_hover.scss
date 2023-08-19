@@ -2,6 +2,6 @@
 button {
   color: #FF0000;
 
-  @at-root button:hover {
+  :hover {
     color: #00FF00; }
   }
