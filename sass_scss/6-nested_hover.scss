@@ -1,6 +1,7 @@
 /* using nested hover */
 button {
   color: #FF0000;
+
   @at-root button:hover {
     color: #00FF00; }
   }
